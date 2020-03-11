@@ -6,6 +6,7 @@ https://elmas3.github.io/mao-seminar/
 メンバーB
 メンバーC
 メンバーD
+メンバーE
 
 # ディレクトリ構成
 ```
